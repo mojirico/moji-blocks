@@ -31,7 +31,7 @@ const HeaderComponent = ({header}) => {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" color="inherit">
-              Photos
+              moji-Blocks
             </Typography>
           </Toolbar>
         </AppBar>
@@ -43,6 +43,8 @@ const HeaderComponent = ({header}) => {
 HeaderComponent.propTypes = {
   
 }
+
+
 export default HeaderComponent
 
 
