@@ -13,14 +13,14 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <span>
-          <span>Learn </span>
+          <span>もものすけ </span>
           <a
             className="App-link"
             href="https://reactjs.org/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            React
+            ももじ
           </a>
           <span>, </span>
           <a
