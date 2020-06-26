@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const HeaderComponent = ({header}) => {
+const HeaderComponent = () => {
   const classes = useStyles();
 
   return (
